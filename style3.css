@@ -1,0 +1,86 @@
+body {
+    font-family: Arial, sans-serif;
+    color: hwb(240 5% 94%);
+    background-color: rgb(91, 240, 190)
+    margin 0;
+    padding: 0;
+}
+
+header {
+    background-color: hsl(86, 81%, 58%);
+    color: hsl(258, 90%, 59%);
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    background-color: rgb(110, 235, 235);
+    list-style-type: none;
+    color: hsl(240, 65%, 28%);
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: hsl(266, 82%, 52%);
+    text-decoration: none;
+}
+
+#hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    color: rgb(46, 12, 172);
+    text-align: center;
+    padding: 100px 20px;
+}
+
+#features, #about, #contact {
+    color: #460485;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: hwb(191 86% 8%);
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.div-divide{
+    max-width: 900px;
+    display: inline-block;
+}
+.img1{
+    height: 10px;
+    width: 5px;
+    size: 20;
+}
+.phone{
+    color: hsl(143, 92%, 42%);
+}
+.Models{
+    color: hsl(76, 37%, 48%);
+}
+nav h3{
+    color: aqua;
+}
+.about{
+    color: hwb(323 9% 3%);
+    background-color: hsl(170, 88%, 50%);
+}
+.iphone{
+    background-color: aqua;
+}
+.section2{
+    background-color: rgb(71, 235, 180);
+}.body{
+    background-color: #ac6305;
+}
